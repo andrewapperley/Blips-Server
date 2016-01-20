@@ -1,0 +1,2 @@
+# The newline at the end of this file is extremely important.  Cron won't run without it.
+20 0 * * * root /opt/python/run/venv/bin/python2.7 /opt/python/current/app/process_expired_token.py MYSQLURL

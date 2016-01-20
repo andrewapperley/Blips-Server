@@ -1,0 +1,7 @@
+Flask>=0.8
+
+[docs]
+sphinx
+
+[paging]
+pycrypto>=2.6

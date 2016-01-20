@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c99104a1-1a75-4e41-a43a-2e64a6bf9697" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/static/html_statics/css/reset_password.css" afterPath="$PROJECT_DIR$/v1/static/html_statics/css/reset_password.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Blips Server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Blips Server$Blips_Server_v1_Notification_Test.coverage" NAME="Blips Server v1 Notification Test Coverage Results" MODIFIED="1402588766737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v1" />
+    <SUITE FILE_PATH="coverage/Blips Server$Blips_Server_v1.coverage" NAME="Blips Server v1 Coverage Results" MODIFIED="1404221919435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v1" />
+    <SUITE FILE_PATH="coverage/Blips Server$video.coverage" NAME="video Coverage Results" MODIFIED="1395024915614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v1" />
+    <SUITE FILE_PATH="coverage/Blips Server$Blips_Server_Amazon_v1.coverage" NAME="Blips Server Amazon v1 Coverage Results" MODIFIED="1402588752519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon v1" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Blips Server" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="application.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="16" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_config.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/server_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="24" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notification.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/notification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="19" selection-start="832" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="3525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string_constants.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/string_constants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="41" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset_password.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/templates/reset_password/reset_password.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="33" selection-start="856" selection-end="871" vertical-scroll-proportion="-13.083333" vertical-offset="31" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset_password.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v1/static/html_statics/css/reset_password.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="0" selection-start="2285" selection-end="2285" vertical-scroll-proportion="0.80756015" vertical-offset="0" max-vertical-offset="1245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1180" column="0" selection-start="49612" selection-end="49612" vertical-scroll-proportion="0.0" vertical-offset="17002" max-vertical-offset="20310">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Blips Server.py" />
+        <option value="$PROJECT_DIR$/v1/main.py" />
+        <option value="$PROJECT_DIR$/Amazon v1/video.py" />
+        <option value="$PROJECT_DIR$/v1/__init__.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/env.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/versions/1acbe3a6a91_first_revision.py" />
+        <option value="$PROJECT_DIR$/Amazon v1/server_config.py" />
+        <option value="$PROJECT_DIR$/Amazon v1/alembic.ini" />
+        <option value="$PROJECT_DIR$/v1/alembic.ini" />
+        <option value="$PROJECT_DIR$/Amazon v1/notification.py" />
+        <option value="$PROJECT_DIR$/Amazon v1/requirements.txt" />
+        <option value="$PROJECT_DIR$/Amazon v1/user.py" />
+        <option value="$PROJECT_DIR$/Amazon v1/authorized.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/versions/cdfc60e0577_added_notifications.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/versions/58972abd14d9_altered_notification_foreign_key.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/versions/331f3604a692_altered_timelines.py" />
+        <option value="$PROJECT_DIR$/v1/video.py" />
+        <option value="$PROJECT_DIR$/v1/alembic/versions/548b22a5d5e_added_notification_sender.py" />
+        <option value="$PROJECT_DIR$/v1/notification.py" />
+        <option value="$PROJECT_DIR$/v1/requirements.txt" />
+        <option value="$PROJECT_DIR$/v1/application.py" />
+        <option value="$PROJECT_DIR$/v1/.ebextensions/Crons.config" />
+        <option value="$PROJECT_DIR$/v1/.ebextensions/notifications_cron.txt" />
+        <option value="$PROJECT_DIR$/v1/process_notifications.py" />
+        <option value="$PROJECT_DIR$/v1/database.py" />
+        <option value="$PROJECT_DIR$/v1/start_server" />
+        <option value="$PROJECT_DIR$/v1/app.py" />
+        <option value="$PROJECT_DIR$/v1/server_config.py" />
+        <option value="$PROJECT_DIR$/v1/string_constants.py" />
+        <option value="$PROJECT_DIR$/v1/templates/reset_password/reset_password.html" />
+        <option value="$PROJECT_DIR$/v1/user.py" />
+        <option value="$PROJECT_DIR$/v1/static/html_statics/css/reset_password.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reset_password" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_statics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_statics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".ebextensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Amazon v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/v1/process_notifications.py" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v1/.ebextensions" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/connections/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="andrewApperley123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user2" />
+                <option name="value" value="andrewApperley1234" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="dsjkfsd78jn37dfjk3re3w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{'params' : [{'username' : 'andrewapperley', 'user2' ; 'jeremy', 'access_token' ; 'dsjfds7fj38sdfj3'}]}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/connection/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="andrewApperley123" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user2" />
+                <option name="value" value="andrewApperley1234" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="dsjkfsd78jn37dfjk3re3w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{'params' : [{'username' : 'andrewapperley', 'user2' ; 'jeremy', 'access_token' ; 'dsjfds7fj38sdfj3'}]}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/connection/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="andrewapperley" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user2" />
+                <option name="value" value="jeremy" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="dsjkfsd78jn37dfjk3re3w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{'params' : [{'username' : 'andrewapperley', 'user2' ; 'jeremy', 'access_token' ; 'dsjfds7fj38sdfj3'}]}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/connection/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{'params' : [{'username' : 'andrewapperley', 'user2' ; 'jeremy', 'access_token' ; 'dsjfds7fj38sdfj3'}]}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/connection" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{'params' : [{'username' : 'andrewapperley', 'user2' ; 'jeremy', 'access_token' ; 'dsjfds7fj38sdfj3'}]}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Blips Server v1">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Blips Server v1" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v1/application.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Blips Server Amazon v1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon v1/application.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Blips Server v1 Notification Test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Blips Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v1/process_notifications.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.Blips Server v1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Blips Server Amazon v1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Blips Server v1 Notification Test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c99104a1-1a75-4e41-a43a-2e64a6bf9697" name="Default" comment="" />
+      <created>1393981488263</created>
+      <updated>1393981488263</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Minor changes to limited profile">
+      <created>1394991911450</created>
+      <updated>1394991911450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor changes todatabase">
+      <created>1395192030406</created>
+      <updated>1395192030406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Minor changes to date formatter">
+      <created>1396725925970</created>
+      <updated>1396725925970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Minor changes to date formatter">
+      <created>1396726277250</created>
+      <updated>1396726277250</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Minor changes to search">
+      <created>1396827095376</created>
+      <updated>1396827095376</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Server messages for video and user are done client side">
+      <created>1396829863946</created>
+      <updated>1396829863946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Connection Profile for user_id with timelines">
+      <created>1397093920306</created>
+      <updated>1397093920306</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Connection Profile for user_id with timelines">
+      <created>1397198795095</created>
+      <updated>1397198795095</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Video count with video at page calls and favourites">
+      <created>1397537066345</created>
+      <updated>1397537066345</updated>
+    </task>
+    <task id="LOCAL-00010" summary="took out results limit from search">
+      <created>1398919186697</created>
+      <updated>1398919186697</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating User information works now">
+      <created>1398979422409</created>
+      <updated>1398979422409</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updating User information patch for profile image">
+      <created>1398981417515</created>
+      <updated>1398981417515</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updating info patched again">
+      <created>1398982056021</created>
+      <updated>1398982056021</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updating User information works now">
+      <created>1398982495237</created>
+      <updated>1398982495237</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updating User information works now">
+      <created>1398983572030</created>
+      <updated>1398983572030</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updating User information works now">
+      <created>1398984054532</created>
+      <updated>1398984054532</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updating User information works now">
+      <created>1398984313708</created>
+      <updated>1398984313708</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Server config">
+      <created>1400040378424</created>
+      <updated>1400040378424</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added a length to the VARCAR columns">
+      <created>1400041313332</created>
+      <updated>1400041313332</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Server config">
+      <created>1400041356768</created>
+      <updated>1400041356768</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Server config">
+      <created>1400042725205</created>
+      <updated>1400042725205</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Server config">
+      <created>1400044993834</created>
+      <updated>1400044993834</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Server config">
+      <created>1400045317970</created>
+      <updated>1400045317970</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Server config">
+      <created>1400379135078</created>
+      <updated>1400379135078</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Returning paths to resources in video/timeline creation for AWS setup">
+      <created>1400410254612</created>
+      <updated>1400410254612</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Returning full objects for video/getTimelines">
+      <created>1400536238985</created>
+      <updated>1400536238985</updated>
+    </task>
+    <task id="LOCAL-00027" summary="REVERSING-&gt;Returning full objects for video/getTimelines">
+      <created>1400716104067</created>
+      <updated>1400716104067</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added DB migration">
+      <created>1400727765561</created>
+      <updated>1400727765561</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fixed imports">
+      <created>1400728884912</created>
+      <updated>1400728884912</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fixed imports">
+      <created>1400733614866</created>
+      <updated>1400733614866</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Video work">
+      <created>1400737352785</created>
+      <updated>1400737352785</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Changed server config">
+      <created>1400810889305</created>
+      <updated>1400810889305</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Changed server config">
+      <created>1400811208219</created>
+      <updated>1400811208219</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Changed server config">
+      <created>1400822782344</created>
+      <updated>1400822782344</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Changed server config">
+      <created>1400823308735</created>
+      <updated>1400823308735</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Changed server config">
+      <created>1400823596238</created>
+      <updated>1400823596238</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Turned caching off">
+      <created>1400993640845</created>
+      <updated>1400993640845</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Merged Amazon and development branches">
+      <created>1401070151469</created>
+      <updated>1401070151469</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Notification setup">
+      <created>1401328520173</created>
+      <updated>1401328520173</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Linked registered users to the notifications that are meant for them.">
+      <created>1401329753818</created>
+      <updated>1401329753818</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Deleted old amazon code and finished first draft of CRON job for processing notifications">
+      <created>1401331280402</created>
+      <updated>1401331280402</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Updated notification code">
+      <created>1401851593251</created>
+      <updated>1401851593251</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Updated notification code and tested CRON job with looping through the pending requests and sending them out, then purging DB after they are sent.">
+      <created>1401858782590</created>
+      <updated>1401858782590</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added check for NULL payload (so it doesnt fail when it happens but it never should), updating request as sent, only sending not already sent requests.">
+      <created>1401861464826</created>
+      <updated>1401861464826</updated>
+    </task>
+    <task id="LOCAL-00045" summary="When the user confirms a friend we create a timeline for them and the friend. I also altered the DB revsion">
+      <created>1401939665980</created>
+      <updated>1401939665980</updated>
+    </task>
+    <task id="LOCAL-00046" summary="User info checks can be done on any user">
+      <created>1401939916858</created>
+      <updated>1401939916858</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Notification list end point.">
+      <created>1401941710480</created>
+      <updated>1401941710480</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Unregister for notifications endpoint done">
+      <created>1402087749268</created>
+      <updated>1402087749269</updated>
+    </task>
+    <task id="LOCAL-00049" summary="took out test data">
+      <created>1402098041821</created>
+      <updated>1402098041821</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Friend confirmation circled completed with notifications">
+      <created>1402263280075</created>
+      <updated>1402263280075</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Video count is merged into connection objects, friend requests are returned with connection list, fixes for notification delays, and added a sender column to notifications.">
+      <created>1402284838746</created>
+      <updated>1402284838746</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Fixed connection list issue after adding friend requests into the same response.">
+      <created>1402294507216</created>
+      <updated>1402294507216</updated>
+    </task>
+    <task id="LOCAL-00053" summary="login fix and notification mark as read endpoint">
+      <created>1402367881734</created>
+      <updated>1402367881734</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Searches now wont bring up friend request people.">
+      <created>1402530223143</created>
+      <updated>1402530223143</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Added compression to responses">
+      <created>1402532987414</created>
+      <updated>1402532987414</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Added compression, db debug checks, local server start script, changes to notification processing.">
+      <created>1404216299326</created>
+      <updated>1404216299326</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Fixed local start script">
+      <created>1404216909387</created>
+      <updated>1404216909387</updated>
+    </task>
+    <task id="LOCAL-00058" summary="password reset styled roughly">
+      <created>1404226037452</created>
+      <updated>1404226037452</updated>
+    </task>
+    <task id="LOCAL-00059" summary="password reset styled roughly">
+      <created>1404226270773</created>
+      <updated>1404226270773</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fixed password reset for user not existing">
+      <created>1404226366373</created>
+      <updated>1404226366373</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1006" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293348" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21565495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3369803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3402399" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" x="0" y="372" width="1920" height="311" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27371866" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293348" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5493107" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Video work" />
+    <MESSAGE value="Changed server config" />
+    <MESSAGE value="Turned caching off" />
+    <MESSAGE value="Merged Amazon and development branches" />
+    <MESSAGE value="Notification setup" />
+    <MESSAGE value="Linked registered users to the notifications that are meant for them." />
+    <MESSAGE value="Deleted old amazon code and finished first draft of CRON job for processing notifications" />
+    <MESSAGE value="Updated notification code" />
+    <MESSAGE value="Updated notification code and tested CRON job with looping through the pending requests and sending them out, then purging DB after they are sent." />
+    <MESSAGE value="Added check for NULL payload (so it doesnt fail when it happens but it never should), updating request as sent, only sending not already sent requests." />
+    <MESSAGE value="When the user confirms a friend we create a timeline for them and the friend. I also altered the DB revsion" />
+    <MESSAGE value="User info checks can be done on any user" />
+    <MESSAGE value="Notification list end point." />
+    <MESSAGE value="Unregister for notifications endpoint done" />
+    <MESSAGE value="took out test data" />
+    <MESSAGE value="Friend confirmation circled completed with notifications" />
+    <MESSAGE value="Video count is merged into connection objects, friend requests are returned with connection list, fixes for notification delays, and added a sender column to notifications." />
+    <MESSAGE value="Fixed connection list issue after adding friend requests into the same response." />
+    <MESSAGE value="login fix and notification mark as read endpoint" />
+    <MESSAGE value="Searches now wont bring up friend request people." />
+    <MESSAGE value="Added compression to responses" />
+    <MESSAGE value="Added compression, db debug checks, local server start script, changes to notification processing." />
+    <MESSAGE value="Fixed local start script" />
+    <MESSAGE value="password reset styled roughly" />
+    <MESSAGE value="fixed password reset for user not existing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed password reset for user not existing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="298" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14055" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/engine/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="4" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.33295965" vertical-offset="603" max-vertical-offset="4995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/email_handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/alembic.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="58" selection-start="619" selection-end="619" vertical-scroll-proportion="0.42956522" vertical-offset="83" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon v1/.elasticbeanstalk/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="892" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/alembic/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/alembic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="15" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/alembic/operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="311" selection-end="311" vertical-scroll-proportion="0.23396881" vertical-offset="0" max-vertical-offset="15540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/alembic/op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="160" selection-end="160" vertical-scroll-proportion="0.12998267" vertical-offset="0" max-vertical-offset="577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1231" column="8" selection-start="50897" selection-end="50897" vertical-scroll-proportion="0.33275563" vertical-offset="18213" max-vertical-offset="52905" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="0" selection-start="5589" selection-end="5589" vertical-scroll-proportion="0.33275563" vertical-offset="2103" max-vertical-offset="7005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="0" selection-start="3871" selection-end="3871" vertical-scroll-proportion="0.71403813" vertical-offset="1223" max-vertical-offset="1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/alembic/versions/331f3604a692_altered_timelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/pytz/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="8" selection-start="6403" selection-end="6403" vertical-scroll-proportion="0.33217993" vertical-offset="3213" max-vertical-offset="23145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1427" column="0" selection-start="56609" selection-end="56609" vertical-scroll-proportion="0.40044993" vertical-offset="20809" max-vertical-offset="34575" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="310" column="14" selection-start="8073" selection-end="8079" vertical-scroll-proportion="0.7746967" vertical-offset="4173" max-vertical-offset="9435" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/1875546828/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="6" selection-start="5210" selection-end="5210" vertical-scroll-proportion="0.33275563" vertical-offset="2238" max-vertical-offset="9495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/ext/declarative/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="4" selection-start="5436" selection-end="5436" vertical-scroll-proportion="-1.5129982" vertical-offset="3153" max-vertical-offset="6630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/apns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="300" column="34" selection-start="9954" selection-end="9954" vertical-scroll-proportion="0.8050314" vertical-offset="3928" max-vertical-offset="5970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/authorized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/alembic/versions/cdfc60e0577_added_notifications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="281" selection-end="350" vertical-scroll-proportion="0.42477876" vertical-offset="0" max-vertical-offset="565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/alembic/versions/58972abd14d9_altered_notification_foreign_key.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="296" selection-end="360" vertical-scroll-proportion="0.40816328" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/alembic/versions/548b22a5d5e_added_notification_sender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="16" selection-start="384" selection-end="384" vertical-scroll-proportion="0.48469388" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/sql/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4627" column="8" selection-start="153017" selection-end="153017" vertical-scroll-proportion="0.33333334" vertical-offset="69089" max-vertical-offset="97410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2532" column="8" selection-start="94073" selection-end="94073" vertical-scroll-proportion="0.33295837" vertical-offset="37429" max-vertical-offset="48135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/tornado/ioloop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="476" column="0" selection-start="16869" selection-end="16869" vertical-scroll-proportion="0.0" vertical-offset="6678" max-vertical-offset="12420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/tornado/stack_context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="301" column="0" selection-start="10403" selection-end="10403" vertical-scroll-proportion="0.0" vertical-offset="4248" max-vertical-offset="5655" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="0" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.33333334" vertical-offset="3107" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="75" selection-start="9346" selection-end="9397" vertical-scroll-proportion="0.0" vertical-offset="2745" max-vertical-offset="11175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="271" selection-end="271" vertical-scroll-proportion="0.3633218" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/flask_compress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="30" selection-start="940" selection-end="940" vertical-scroll-proportion="0.2733564" vertical-offset="292" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/1875546828/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.33217993" vertical-offset="273" max-vertical-offset="76485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon v1/alembic.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="17" selection-start="581" selection-end="674" vertical-scroll-proportion="0.46712804" vertical-offset="60" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="2871" selection-end="2871" vertical-scroll-proportion="0.33217993" vertical-offset="1218" max-vertical-offset="3345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/sqlalchemy/engine/url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="0" selection-start="6406" selection-end="6406" vertical-scroll-proportion="1.3205849" vertical-offset="1706" max-vertical-offset="3135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.41379312" vertical-offset="0" max-vertical-offset="580" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1144" column="0" selection-start="47625" selection-end="47625" vertical-scroll-proportion="0.33275864" vertical-offset="15992" max-vertical-offset="22125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/.ebextensions/Crons.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/start_local_server.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.084650114" vertical-offset="0" max-vertical-offset="886">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/.ebextensions/notifications_cron.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="333" selection-end="333" vertical-scroll-proportion="0.03436426" vertical-offset="0" max-vertical-offset="873">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/process_notifications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="23" selection-start="2586" selection-end="2586" vertical-scroll-proportion="0.72911966" vertical-offset="239" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="817" column="0" selection-start="28384" selection-end="28384" vertical-scroll-proportion="0.33217993" vertical-offset="11958" max-vertical-offset="17820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/notification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="19" selection-start="832" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/server_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="24" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/string_constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="41" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blips_environ/lib/python2.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1460" column="0" selection-start="61615" selection-end="61615" vertical-scroll-proportion="0.33217993" vertical-offset="21333" max-vertical-offset="27345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/templates/reset_password/reset_password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="856" selection-end="871" vertical-scroll-proportion="-13.083333" vertical-offset="31" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1180" column="0" selection-start="49612" selection-end="49612" vertical-scroll-proportion="0.0" vertical-offset="17002" max-vertical-offset="20310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/static/html_statics/css/reset_password.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="2285" selection-end="2285" vertical-scroll-proportion="0.80756015" vertical-offset="0" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

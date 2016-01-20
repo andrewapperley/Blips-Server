@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e4382af-2354-4fb9-b515-5ed5df44e851" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/notification.py" afterPath="$PROJECT_DIR$/Blips Server/v1/notification.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/process_notifications.py" afterPath="$PROJECT_DIR$/Blips Server/v1/process_notifications.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/server_config.py" afterPath="$PROJECT_DIR$/Blips Server/v1/server_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/string_constants.py" afterPath="$PROJECT_DIR$/Blips Server/v1/string_constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/user.py" afterPath="$PROJECT_DIR$/Blips Server/v1/user.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blips Server/v1/video.py" afterPath="$PROJECT_DIR$/Blips Server/v1/video.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="blips_server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="PyCharm30/coverage/blips_server$Blips_Server_v1_Notification_Test.coverage" NAME="Blips Server v1 Notification Test Coverage Results" MODIFIED="1404262649937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blips Server/v1" />
+    <SUITE FILE_PATH="coverage/blips_server$Blips_Server_v1.coverage" NAME="Blips Server v1 Coverage Results" MODIFIED="1413285410109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blips Server/v1" />
+    <SUITE FILE_PATH="coverage/blips_server$PublicPrivateKeyGeneration.coverage" NAME="PublicPrivateKeyGeneration Coverage Results" MODIFIED="1406574391649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blips Server" />
+    <SUITE FILE_PATH="PyCharm30/coverage/blips_server$Blips_Server_v1.coverage" NAME="Blips Server v1 Coverage Results" MODIFIED="1404267163899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blips Server/v1" />
+    <SUITE FILE_PATH="coverage/blips_server$Blips_Server_v1_Notification_Test.coverage" NAME="Blips Server v1 Notification Test Coverage Results" MODIFIED="1412618315404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Blips Server/v1" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blips_server" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="user.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="443" column="42" selection-start="17828" selection-end="17828" vertical-scroll-proportion="0.0" vertical-offset="5985" max-vertical-offset="21675">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_notifications.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/process_notifications.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="28" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1305">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notification.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/notification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="42" selection-start="510" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset_password.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/templates/reset_password/reset_password.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string_constants.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/string_constants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="72" selection-start="4355" selection-end="4355" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2445">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_config.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/server_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="22" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="19" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blips Server/v1/video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="335" column="8" selection-start="13262" selection-end="13262" vertical-scroll-proportion="-0.055016182" vertical-offset="4729" max-vertical-offset="11625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Blips Server/v1/main.py" />
+        <option value="$PROJECT_DIR$/Blips Server/reset_password.html" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/static/reset_password.html" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/static/html_statics/css/reset_password.css" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/.ebextensions/custom.config" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/static/website_statics/js/retina_support.js" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/static/website_statics/css/main.css" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/templates/BlipsWebsite/index.html" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/static/website_statics/js/dayNight.js" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/website.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/.ebextensions/singlessl.config" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/application.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/Public/PrivateKeyGeneration.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/PublicPrivateKeyGeneration.py" />
+        <option value="$PROJECT_DIR$/Blips Server/PublicPrivateKeyGeneration.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/alembic/versions/1236c82d0887_timestamp_change.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/alembic/versions/599d9f824f54_update_charset.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/authorized.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/requirements.txt" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/database.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/templates/reset_password/reset_password.html" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/app.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/certs/notifications_cron.txt" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/.ebextensions/Crons.config" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/.ebextensions/notifications_cron.txt" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/email_handling.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/apns.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/process_notifications.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/string_constants.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/notification.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/user.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/video.py" />
+        <option value="$PROJECT_DIR$/Blips Server/v1/server_config.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blips_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blips Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Pebble_Apps/AFTimer" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.buildout.BuildoutModulesConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="blips_server" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="blips_server" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Blips Server/v1/.ebextensions" />
+      <recent name="$PROJECT_DIR$/Blips Server/v1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Blips Server/v1/.ebextensions" />
+      <recent name="$PROJECT_DIR$/Blips Server/v1/certs" />
+      <recent name="$PROJECT_DIR$/Blips Server" />
+      <recent name="$PROJECT_DIR$/Blips Server/v1" />
+      <recent name="$PROJECT_DIR$/Blips Server/Amazon v1" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/user/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Blips Server v1">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Blips Server v1" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blips Server/v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blips Server/v1/application.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Blips Server v1 Notification Test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/blips_environ/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blips Server/v1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blips_server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blips Server/v1/process_notifications.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Blips Server v1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Blips Server v1 Notification Test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e4382af-2354-4fb9-b515-5ed5df44e851" name="Default" comment="" />
+      <created>1394905289001</created>
+      <updated>1394905289001</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added email support&#10;Constants file for all strings&#10;Reset Password support">
+      <created>1394915035097</created>
+      <updated>1394915035097</updated>
+    </task>
+    <task id="LOCAL-00002" summary="password reset changed a bit">
+      <created>1394919365275</created>
+      <updated>1394919365275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="password reset changed a bit and now users password reset via webpage">
+      <created>1394928866516</created>
+      <updated>1394928866516</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Password reset done">
+      <created>1394931239408</created>
+      <updated>1394931239408</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed expirydate issue server side">
+      <created>1398997001485</created>
+      <updated>1398997001485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed server side error response codes">
+      <created>1399227315312</created>
+      <updated>1399227315312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed reset password and email(username) server side.">
+      <created>1399299384786</created>
+      <updated>1399299384786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updating user will send back token and expiry date now if you requested a new password">
+      <created>1399320105308</created>
+      <updated>1399320105308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Username is sent with updating a usermodel">
+      <created>1399320837906</created>
+      <updated>1399320837906</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changed static folder back.">
+      <created>1399322354672</created>
+      <updated>1399322354672</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Put in a check for if they only updated a profile image or also other content.">
+      <created>1399338035310</created>
+      <updated>1399338035310</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed dictionary count exception">
+      <created>1399339265423</created>
+      <updated>1399339265423</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Notifications have proper titles and friend requests have a full circle of request-&gt;confirmation-&gt;new friend">
+      <created>1402093212322</created>
+      <updated>1402093212322</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Remove Connection endpoint created">
+      <created>1404158599478</created>
+      <updated>1404158599478</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Remove Connection endpoint created">
+      <created>1404158901165</created>
+      <updated>1404158901165</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Remove Connection endpoint created">
+      <created>1404161414443</created>
+      <updated>1404161414443</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Remove user endpoint finished">
+      <created>1404165047822</created>
+      <updated>1404165047822</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed issues with implementation of disabled connection">
+      <created>1404181254654</created>
+      <updated>1404181254654</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed issues with implementation of disabled connection and notifications">
+      <created>1404183267417</created>
+      <updated>1404183267417</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added some more styling to the reset password page">
+      <created>1404267200087</created>
+      <updated>1404267200087</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added some more styling to the reset password page">
+      <created>1404350920846</created>
+      <updated>1404350920846</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed major security issue.">
+      <created>1404515260756</created>
+      <updated>1404515260756</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Deactivated account working now">
+      <created>1404517004124</created>
+      <updated>1404517004124</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Deactivated account working now">
+      <created>1404739230353</created>
+      <updated>1404739230353</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Changed how notifications work">
+      <created>1404788507088</created>
+      <updated>1404788507088</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Amazon release added and website integrated with the server code as an endpoint.">
+      <created>1406073163339</created>
+      <updated>1406073163339</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Video uploading working. Took out website from api source. Added token handling for security">
+      <created>1406946298584</created>
+      <updated>1406946298584</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Video uploading working. Took out website from api source. Added token handling for security">
+      <created>1407010128404</created>
+      <updated>1407010128404</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Took out upload content code on server and changed profileimage directory">
+      <created>1407010227731</created>
+      <updated>1407010227731</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updated server for timestamps">
+      <created>1408202488882</created>
+      <updated>1408202488882</updated>
+    </task>
+    <task id="LOCAL-00031" summary="local development">
+      <created>1408202626357</created>
+      <updated>1408202626357</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Changed back to production and fixed video notification issue">
+      <created>1408210574094</created>
+      <updated>1408210574094</updated>
+    </task>
+    <task id="LOCAL-00033" summary="thumbnail works">
+      <created>1408223859250</created>
+      <updated>1408223859250</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Video work">
+      <created>1408300408216</created>
+      <updated>1408300408216</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Video notifications go to the correct person when a video is submitted.">
+      <created>1408495550997</created>
+      <updated>1408495550997</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Re-adding a friend and not receiving the notification is fixed.&#10;Duplicate requests when a friend adds you is fixed.">
+      <created>1408575895066</created>
+      <updated>1408575895066</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Updated charset to suppress error">
+      <created>1409378837091</created>
+      <updated>1409378837091</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Updated push notifications.">
+      <created>1410747222883</created>
+      <updated>1410747222883</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Password reset completed with email confirmations.">
+      <created>1410975885707</created>
+      <updated>1410975885707</updated>
+    </task>
+    <task id="LOCAL-00040" summary="In-App Purchases integrated.">
+      <created>1411509698785</created>
+      <updated>1411509698785</updated>
+    </task>
+    <task id="LOCAL-00041" summary="certs updated">
+      <created>1411769035275</created>
+      <updated>1411769035275</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added timeline loading from timeline and fixed prod certs">
+      <created>1411779872998</created>
+      <updated>1411779872998</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Emoticon support.">
+      <created>1411969346745</created>
+      <updated>1411969346745</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Fixed favouriting.">
+      <created>1412351153257</created>
+      <updated>1412351153257</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2746365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23263328" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47360703" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32844576" sideWeight="0.5" order="1" side_tool="true" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44281524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32748538" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.686636" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="Remove user endpoint finished" />
+    <MESSAGE value="Fixed issues with implementation of disabled connection" />
+    <MESSAGE value="Fixed issues with implementation of disabled connection and notifications" />
+    <MESSAGE value="Added some more styling to the reset password page" />
+    <MESSAGE value="Fixed major security issue." />
+    <MESSAGE value="Deactivated account working now" />
+    <MESSAGE value="Changed how notifications work" />
+    <MESSAGE value="Amazon release added and website integrated with the server code as an endpoint." />
+    <MESSAGE value="Video uploading working. Took out website from api source. Added token handling for security" />
+    <MESSAGE value="Took out upload content code on server and changed profileimage directory" />
+    <MESSAGE value="Updated server for timestamps" />
+    <MESSAGE value="local development" />
+    <MESSAGE value="Changed back to production and fixed video notification issue" />
+    <MESSAGE value="thumbnail works" />
+    <MESSAGE value="Video work" />
+    <MESSAGE value="Video notifications go to the correct person when a video is submitted." />
+    <MESSAGE value="Re-adding a friend and not receiving the notification is fixed.&#10;Duplicate requests when a friend adds you is fixed." />
+    <MESSAGE value="Updated charset to suppress error" />
+    <MESSAGE value="Updated push notifications." />
+    <MESSAGE value="Password reset completed with email confirmations." />
+    <MESSAGE value="In-App Purchases integrated." />
+    <MESSAGE value="certs updated" />
+    <MESSAGE value="Added timeline loading from timeline and fixed prod certs" />
+    <MESSAGE value="Emoticon support." />
+    <MESSAGE value="Fixed favouriting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed favouriting." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="200" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/static/html_statics/css/reset_password.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="18" selection-start="4531" selection-end="4531" vertical-scroll-proportion="0.64918035" vertical-offset="1254" max-vertical-offset="2130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/tornado/tcpserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="3802" selection-end="3802" vertical-scroll-proportion="0.33226836" vertical-offset="1261" max-vertical-offset="3600" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1440" column="8" selection-start="29406" selection-end="29406" vertical-scroll-proportion="0.33103448" vertical-offset="21489" max-vertical-offset="37020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/werkzeug/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="353" column="39" selection-start="12303" selection-end="12303" vertical-scroll-proportion="0.43448275" vertical-offset="5124" max-vertical-offset="9210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/werkzeug/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="538" column="8" selection-start="22805" selection-end="22805" vertical-scroll-proportion="-4.700997" vertical-offset="10525" max-vertical-offset="26745" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/Crypto/PublicKey/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1817" selection-end="1817" vertical-scroll-proportion="0.775" vertical-offset="105" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/Crypto/Cipher/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="0" selection-start="3266" selection-end="3266" vertical-scroll-proportion="0.625" vertical-offset="735" max-vertical-offset="1335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/alembic/versions/548b22a5d5e_added_notification_sender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="78" selection-start="353" selection-end="363" vertical-scroll-proportion="0.38034865" vertical-offset="0" max-vertical-offset="631" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/alembic/versions/cdfc60e0577_added_notifications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.47543582" vertical-offset="0" max-vertical-offset="631" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/flask/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="966" selection-end="966" vertical-scroll-proportion="0.60294116" vertical-offset="395" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/alembic/versions/599d9f824f54_update_charset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1066" column="8" selection-start="37876" selection-end="37876" vertical-scroll-proportion="0.0" vertical-offset="15862" max-vertical-offset="37470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="3914" selection-end="3914" vertical-scroll-proportion="1.2647059" vertical-offset="1220" max-vertical-offset="1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/authorized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="209" column="0" selection-start="7904" selection-end="7904" vertical-scroll-proportion="0.33223686" vertical-offset="3034" max-vertical-offset="6810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/sql/sqltypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="352" column="6" selection-start="12846" selection-end="12846" vertical-scroll-proportion="0.33223686" vertical-offset="5014" max-vertical-offset="25440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/sql/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="782" column="8" selection-start="30516" selection-end="30516" vertical-scroll-proportion="-11.065789" vertical-offset="14869" max-vertical-offset="51525" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="534" column="0" selection-start="19077" selection-end="19077" vertical-scroll-proportion="0.33231708" vertical-offset="7856" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="8" selection-start="4154" selection-end="4154" vertical-scroll-proportion="0.33231708" vertical-offset="1676" max-vertical-offset="11985" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="652" column="8" selection-start="23456" selection-end="23456" vertical-scroll-proportion="-3.5091465" vertical-offset="10841" max-vertical-offset="12870" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/multipart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="8" selection-start="330" selection-end="330" vertical-scroll-proportion="-0.0060975607" vertical-offset="227" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="8" selection-start="392" selection-end="392" vertical-scroll-proportion="0.33280507" vertical-offset="15" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="817" column="0" selection-start="28384" selection-end="28384" vertical-scroll-proportion="0.3322785" vertical-offset="12045" max-vertical-offset="17820" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="0" selection-start="4612" selection-end="4612" vertical-scroll-proportion="0.16666667" vertical-offset="1721" max-vertical-offset="7005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/.ebextensions/apns-dev-cert.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/ext/declarative/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="4" selection-start="5468" selection-end="5468" vertical-scroll-proportion="-1.2123613" vertical-offset="3060" max-vertical-offset="7635" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/2036099822/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3838" column="8" selection-start="131554" selection-end="131554" vertical-scroll-proportion="0.33333334" vertical-offset="57352" max-vertical-offset="76485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/attributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="26" selection-start="10023" selection-end="10023" vertical-scroll-proportion="0.0" vertical-offset="4151" max-vertical-offset="23595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2672" column="8" selection-start="98927" selection-end="98927" vertical-scroll-proportion="0.21865444" vertical-offset="39652" max-vertical-offset="53460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="259" column="0" selection-start="7098" selection-end="7098" vertical-scroll-proportion="0.0" vertical-offset="3693" max-vertical-offset="10230" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="0.33333334" vertical-offset="123" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/orm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/sqlalchemy/ext/hybrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="739" column="0" selection-start="26024" selection-end="26024" vertical-scroll-proportion="0.0" vertical-offset="10961" max-vertical-offset="12225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/apns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="25" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.17889908" vertical-offset="468" max-vertical-offset="5970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/.ebextensions/notifications_cron.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="213" selection-start="290" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/.ebextensions/Crons.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="119" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/email_handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/flask/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="441" selection-end="441" vertical-scroll-proportion="-2.2022116" vertical-offset="1649" max-vertical-offset="2310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/flask_restful/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="307" column="20" selection-start="11543" selection-end="11543" vertical-scroll-proportion="0.017741935" vertical-offset="4594" max-vertical-offset="6240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/templates/reset_password/reset_password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/process_notifications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="28" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.0" vertical-offset="577" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/string_constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="72" selection-start="4355" selection-end="4355" vertical-scroll-proportion="0.0" vertical-offset="1079" max-vertical-offset="2445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/notification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="510" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="3660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blips_environ/lib/python2.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1460" column="0" selection-start="61615" selection-end="61615" vertical-scroll-proportion="61.20779" vertical-offset="2673" max-vertical-offset="27345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/server_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="443" column="42" selection-start="17828" selection-end="17828" vertical-scroll-proportion="0.0" vertical-offset="5985" max-vertical-offset="21675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blips Server/v1/video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="335" column="8" selection-start="13262" selection-end="13262" vertical-scroll-proportion="-0.055016182" vertical-offset="4729" max-vertical-offset="11625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

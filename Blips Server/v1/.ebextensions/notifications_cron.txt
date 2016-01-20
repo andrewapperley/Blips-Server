@@ -1,0 +1,2 @@
+# The newline at the end of this file is extremely important.  Cron won't run without it.
+*/1 * * * * root /opt/python/run/venv/bin/python2.7 /opt/python/current/app/process_notifications.py MYSQLURL False /etc/cron.d/apns-prod-cert.pem /etc/cron.d/apns-prod-key-noenc.pem
